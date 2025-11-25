@@ -1,0 +1,24 @@
+[
+  {
+    "id": "driver_001",
+    "name": "张师傅",
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "status": "空闲"
+  },
+  {
+    "id": "driver_002",
+    "name": "李师傅",
+    "latitude": 39.9142,
+    "longitude": 116.4174,
+    "status": "空闲"
+  },
+  {
+    "id": "driver_003",
+    "name": "王师傅",
+    "latitude": 39.8942,
+    "longitude": 116.3974,
+    "status": "空闲"
+  }
+]
+
